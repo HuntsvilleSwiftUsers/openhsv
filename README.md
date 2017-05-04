@@ -4,6 +4,8 @@
 
 The OpenHSV Mobile App connects users with events, groups, and members of the Huntsville, Alabama tech community.
 
+- [Designs](https://drive.google.com/drive/folders/0B04HWYIjsLoxWlpEVFVkVW9ZdUU?usp=sharing)
+
 ### Version 1
 
 For the initial release of the OpenHSV app, we will re-create the public-facing features of the [OpenHSV Website](http://openhsv.com):
