@@ -19,8 +19,12 @@ For the initial release of the OpenHSV app, we will re-create the public-facing 
   - filterable by group(s)  
   - ability to add events to calendar
 - about
+  - shows stats related to OpenHSV and its events
 
-We also have the stretch goal of adding profile creation.
+Stetch Goals:
+
+- profile creation
+- easter egg: OpenHSV logo becomes a playable tic-tac-toe board
 
 ### Version 2
 
